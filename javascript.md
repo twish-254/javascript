@@ -14,8 +14,8 @@ We will use the JavaScript console to execute the JavaScript code in this tutori
 ### Understanding the scope Of variables
 Scope determines the accessibility of variables, objects, and functions from different parts of your code.
 In JavaScript, there are two types of scope, that is:
-- Global scope
-- Local scope
+1. Global scope
+2. Local scope
 <!-- this should be an ordered list  -->
 **1. Global scope**
 
